@@ -1,0 +1,14 @@
+*/**/node_modules
+.idea
+.gradle
+*.iml
+*.ipr
+*.iws
+build
+public
+
+.classpath
+.project
+.settings/
+bin/
+.env
